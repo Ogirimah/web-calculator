@@ -1,0 +1,13 @@
+bracketcount function counts the number of brackets
+  If the number of brackets are even
+    Return true
+  Else
+    Return false
+
+if input = '()'
+  if last input is open bracket or operator
+    operation += '('
+
+  else
+    operation += ')'
+
